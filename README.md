@@ -16,6 +16,7 @@ Adapter Pattern: Implemented to adapt and integrate a LegacyBillingSystem into a
 Proxy Pattern: Used to control access to PatientData via PatientDataProxy, ensuring data access restrictions and lazy initialization.
 
 -------------------------------------------------------*****************------------------------------------------------------
+
 Smart Home System (Integration Project):
 Design Patterns Applied: This project integrates multiple design patterns, such as:
 
